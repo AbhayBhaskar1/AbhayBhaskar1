@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **mallampalliabhaybhaskar@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-bhaskar-mallampalli" target="blank"><img align="center" src="https://th.bing.com/th/id/R.7797eeb65f7f1cca220f484f4ee63297?rik=bHE7C4CsHRiS8g&pid=ImgRaw&r=0" alt="abhay_bhaskar" height="40" width="40" /></a>
 <br>
