@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhay-bhaskar-mallampalli" target="blank"><img align="center" src="https://th.bing.com/th/id/R.7797eeb65f7f1cca220f484f4ee63297?rik=bHE7C4CsHRiS8g&pid=ImgRaw&r=0" alt="abhay_bhaskar" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhay-bhaskar-mallampalli" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="abhay_bhaskar" height="40" width="40" /></a>
 <br>
 <br>
 </p>
@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
 </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.LR0eukW8zWCLgrb02Ct43gAAAA?rs=1&pid=ImgDetMain" alt="matplotlib" width="40" height="40"/> 
 </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/> 
@@ -50,7 +50,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/968d1eb8fb6b704c6be917f0000283face4f33ee/topics/streamlit/streamlit.png" alt="streamlit" width="40" height="40"/> 
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -65,10 +65,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
 </a>
 <a href="https://ml-ops.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://ml-ops.org/img/mlops.svg" alt="mlops" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.ua0Qyq6rx7Cfi5ow5uXSWwHaDw?rs=1&pid=ImgDetMain" alt="mlops" width="50" height="40"/> 
 </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.langchain.com/logo.svg" alt="langchain" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.Ieawux7tKHmLz2witr7nNgHaEQ?rs=1&pid=ImgDetMain" alt="langchain" width="50" height="40"/> 
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -77,7 +77,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.16PwO0kS5Dc3uQ1gShnMJAAAAA?rs=1&pid=ImgDetMain" alt="nextjs" width="40" height="40"/> 
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -92,7 +92,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/R.76984d489016bb78c8c347e661bb8e94?rik=v6h54jhMOjGWxg&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f62a76492bd73a4af5c5d4fb9.png&ehk=CCD7CF%2fzwR7i%2bBDVkut8Jbuzx%2bibavojdYkrIJG2PIc%3d&risl=&pid=ImgRaw&r=0" alt="bootstrap" width="40" height="40"/> 
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
@@ -101,7 +101,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://th.bing.com/th/id/OIP.HtplXDDgIG8Owm0qzrmJqQHaHa?rs=1&pid=ImgDetMain)" alt="flask" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -110,7 +110,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  <img src="https://th.bing.com/th/id/OIP.IdYg7w7OzcWPIW8E8g2RWwHaHa?w=496&h=496&rs=1&pid=ImgDetMain" alt="github" width="40" height="40"/> 
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
