@@ -123,8 +123,10 @@
 </a>
  </p>
  <hr>
-<h2>Profile Views</h2>
-<p><img src="https://profile-counter.glitch.me/AbhayBhaskar1/count.svg" alt="" /></p>
+  <div align="center">
+   <h2 style="align:center";>Profile Views</h2>
+<img src="https://profile-counter.glitch.me/AbhayBhaskar1/count.svg" alt="" />
+  </div>
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <div align="center">
