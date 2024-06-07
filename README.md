@@ -10,14 +10,12 @@
 
 - 📫 How to reach me **mallampalliabhaybhaskar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🤝 Connect with me on  <a href="https://www.linkedin.com/in/abhaybhaskarm" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a>
 <br>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhay-bhaskar-mallampalli" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="abhay_bhaskar" height="40" width="40" /></a>
+<br>
 <br>
 <br>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -122,6 +120,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
  </p>
+ <hr>
 <br>
 <p>Profile Views:</p>
 <p><img src="https://profile-counter.glitch.me/AbhayBhaskar1/count.svg" alt="" /></p>
