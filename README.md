@@ -9,10 +9,12 @@
 - 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **mallampalliabhaybhaskar@gmail.com**
-
-- 🤝 Connect with me on  <a href="https://www.linkedin.com/in/abhaybhaskarm" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a>
-<br>
-<br>
+- 🤝 Connect with me on
+<div style="display: flex; flex-direction: column;">
+          <a href="https://www.linkedin.com/in/abhaybhaskarm"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" /></a>
+          <a href="https://wa.me/+16823920983"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" width="50" /></a>
+          <a href="https://discordapp.com/channels/@me/abhaybhaskar"><img src="https://i.postimg.cc/Px31hTPV/372108630-DISCORD-LOGO-1080.gif" alt="Email" width="50" /></a>
+        </div>
 <br>
 <br>
 </p>
@@ -121,12 +123,20 @@
 </a>
  </p>
  <hr>
-<br>
-<p>Profile Views:</p>
+<h2>Profile Views</h2>
 <p><img src="https://profile-counter.glitch.me/AbhayBhaskar1/count.svg" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhayBhaskar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AbhayBhaskar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhayBhaskar1&show_icons=true&locale=en&theme=tokyonight" alt="AbhayBhaskar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhaskar1&&theme=tokyonight" alt="AbhayBhaskar" /></p>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div align="center">
+    <h2>LeetCode Stats</h2>
+    <img src="https://leetcard.jacoblin.cool/AbhayBhaskar?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" style="max-width: 300px;" />
+  </div>
+  <div align="center">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhayBhaskar1&show_icons=true&theme=tokyonight&custom_title=AbhayBhaskar's%20GitHub%20Stats" alt="GitHub Stats" style="max-width: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhaskar1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 300px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhaskar1&&theme=tokyonight" alt="AbhayBhaskar" />
+    
+  </div>
+  
+</div>
